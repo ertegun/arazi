@@ -1,0 +1,20 @@
+{
+  "type": "",
+  "branch_id": "1",
+  "type_id": "0",
+  "grower_id": "0",
+  "crop_id": "2",
+  "name": "Internal",
+  "field_area": "500.000",
+  "earnest_money": "0.000",
+  "unit_type_id": "0",
+  "agreed_amount": "0",
+  "planting_quantity": "1250",
+  "qty_per_unit": "0",
+  "unit_price": "0",
+  "start_date": "2018-09-09",
+  "expected_duration": "10",
+  "expected_quantity": "125",
+  "expected_end_date": "2018-09-19",
+  "description": ""
+}
